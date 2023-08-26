@@ -1,0 +1,9 @@
+SELECT `ID`,`FIRST_NAME`,`SALES`,`SALE_DATE` FROM cookie_table;
+
+SELECT `ID`,`FIRST_NAME`,`SALES`,`SALE_DATE` FROM cookie_table;
+
+SELECT `ID`,`FIRST_NAME`,`SALES`,`SALE_DATE` FROM cookie_table;
+
+SELECT `ID`,`FIRST_NAME`,`SALES`,`SALE_DATE` FROM cookie_table;
+
+SELECT * FROM movie_table;
